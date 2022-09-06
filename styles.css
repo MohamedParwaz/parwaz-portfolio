@@ -74,8 +74,8 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background-image: url("parwaz-portfolio
-/002.jpg"); 
+  background-image: url(parwaz-portfolio
+/002.jpg); 
   color: #F7FFF7;
 }
 
@@ -110,8 +110,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background-image: url(parwaz-portfolio
-/003.jpg);
+  background-image: url(003.jpg);
 }
 
 
@@ -119,8 +118,7 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(parwaz-portfolio
-/joanna-kosinska-unsplash.jpg);
+  background-image: url(joanna-kosinska-unsplash.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
