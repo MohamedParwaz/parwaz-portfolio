@@ -151,7 +151,7 @@ footer {
   }
   .project-item img {
     float: left;
-    margin-right: 20px;
+    margin-right:0 auto;
   }
 
   .job-item {
@@ -171,7 +171,7 @@ footer {
   h1 {
     font-size: 75px;
     line-height: 0.9;
-    margin-bottom: 20px;
+    margin-bottom: 0 auto;
   }
   h2 {
     line-height: 1;
